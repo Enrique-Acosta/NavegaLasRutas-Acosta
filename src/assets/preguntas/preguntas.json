@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Que campeon es conocido como `El Glorioso Ejecutor`?",
+    "opciones": [
+      {"respuesta":"Renekton", "isCorrect":false},
+      {"respuesta":"Darius", "isCorrect":false}, 
+      {"respuesta":"DRAAAAAVEN", "isCorrect":true},
+      {"respuesta":"Aatrox", "isCorrect":false}
+  ]
+    
+  },
+
+  {
+    "pregunta": "En su salida, el glorioso Draven compartia pasiva con su hermano mayor Darius. Esto es:",
+    "opciones": [
+      {"respuesta":"Verdadero", "isCorrect":true},
+      {"respuesta":"Falso", "isCorrect":false}
+      
+  ]
+  },
+
+  {
+    "pregunta":"¿A que campeon pertence esta habilidad?",
+    "opciones": [
+      {"respuesta":"Lee sin", "isCorrect":true},
+      {"respuesta":"Jarvan IV", "isCorrect":false}, 
+      {"respuesta":"Elise", "isCorrect":false},
+      {"respuesta":"Illaoi", "isCorrect":false}
+    ],
+    "img":"Lee_Sin_Q.webp"
+  },
+  {
+    "pregunta":"¿Qué pro player latinoamericano tiene al campeon anterior como su campeon insignia?",
+    "opciones": [
+      {"respuesta":"WhiteLotus", "isCorrect":false},
+      {"respuesta":"Cody", "isCorrect":false}, 
+      {"respuesta":"Oddie", "isCorrect":false},
+      {"respuesta":"Josedeodo", "isCorrect":true}
+    ]
+  },
+  
+  {
+    "pregunta":"Una pregunta sobre lore, Sett es un mestizo ¿De qué razas?:",
+    "opciones": [
+      {"respuesta":"Humano-Ascendido", "isCorrect":false},
+      {"respuesta":"Vastaya-Darkin", "isCorrect":false}, 
+      {"respuesta":"Vastaya-Humano", "isCorrect":true},
+      {"respuesta":"Humano-Yordle", "isCorrect":false}
+    ]
+  }
+]
+
