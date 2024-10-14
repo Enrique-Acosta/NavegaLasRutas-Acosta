@@ -2,7 +2,7 @@
 
 Este es un quiz sobre League of Legends, no afecta mucho pero queria mostrarle cuales eran las respuestas corretas por si acaso. Algo asi fue mi proyecto final de javascript solo que con unos cuantos detalles mas.
 
-## Preguntas y Respuestas Correctas
+## Respuestas Correctas
 
 1. **¿Que campeon es conocido como `El Glorioso Ejecutor`?**
    - Respuesta correcta: DRAAAAAVEN

@@ -42,7 +42,7 @@ const Quiz = () => {
           <img
             src={images[preguntasData[preguntaActual].img]} 
             alt="Imagen de la pregunta"
-            style={{ width: "100px", height: "auto" }}
+            
           />
         )}
       </div>
